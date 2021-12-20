@@ -72,7 +72,7 @@ section {
     padding: 5px 20px;
     margin-bottom: 20px;
 }
-.link a:last-child {
+.link {
     background-color: rebeccapurple;
     color: white;
     padding-top: 8px;
